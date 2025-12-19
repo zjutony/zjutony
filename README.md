@@ -1,4 +1,5 @@
-## Hi there 👋 I’m Antian Zhao(Tony). I am currently pursuing a master degree in Mechanical Engineering at Zhejiang University after completing my Bachelor’s in Biosystems Engineering with a minor in Innovation and Entrepreneurship Management from the Chu Kochen Honors College. My research interest includes robot and Large Language Model.  
+## Hi there 👋 I’m Antian Zhao(Tony). 
+I am currently pursuing a master degree in Mechanical Engineering🔧 at Zhejiang University after completing my Bachelor’s in Biosystems Engineering with a minor in Innovation and Entrepreneurship Management from the Chu Kochen Honors College. My research interest includes robot🤖 and Large Language Model📖.  
 It is welcomed to contact me if you share similar research interests with me📫.
 <!--
 **zjutony/zjutony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
